@@ -1,0 +1,43 @@
+body {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-auto-rows: auto;
+}
+
+.titulo {
+    grid-column: span 3;
+    text-align: center;
+    background-color: violet;
+    color: white;
+}
+
+.navegacion {
+    grid-column: span 3;
+    text-align: center;
+    background-color: aqua;
+    color: white;
+}
+
+.index {
+    grid-column: span 1;
+    text-align: center;
+    height: 300px;
+}
+
+.content {
+    grid-column: span 2;
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+
+.footer {
+    grid-column: span 3;
+    text-align: center;
+    background-color: violet;
+    color: white;
+}
+
+.nada {
+    list-style-type: none;
+}
