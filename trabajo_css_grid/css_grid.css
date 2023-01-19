@@ -18,17 +18,23 @@ body {
     color: white;
 }
 
-.index {
+.content1 {
     grid-column: span 1;
-    text-align: center;
-    height: 300px;
-}
-
-.content {
-    grid-column: span 2;
     text-align: center;
     background-color: brown;
     color: white;
+}
+
+.content2 {
+    grid-column: span 1;
+    text-align: center;
+    background-color: aquamarine
+}
+
+.content3 {
+    grid-column: span 1;
+    text-align: center;
+    background-color: hotpink;
 }
 
 .footer {
