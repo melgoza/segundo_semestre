@@ -1,0 +1,172 @@
+.cajas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.cajass {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.junto {
+    display: flex;
+}
+
+.cajasss {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.cajassss {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 10px;
+}
+
+.cajasssss {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.cajassssss {
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+.a {
+    font-size: 80px;
+    text-align: center;
+    height: 100px;
+    width: 230px;
+    color: white;
+    background-color: rgb(2, 32, 32);
+}
+
+.b {
+    font-size: 80px;
+    text-align: center;
+    height: 100px;
+    width: 230px;
+    color: white;
+    background-color: rgb(3, 49, 49);
+}
+
+.c {
+    font-size: 80px;
+    text-align: center;
+    height: 100px;
+    width: 230px;
+    color: white;
+    background-color: rgb(5, 94, 94);
+}
+
+.d {
+    font-size: 80px;
+    text-align: center;
+    height: 100px;
+    width: 230px;
+    color: white;
+    background-color: rgb(7, 151, 151);
+}
+
+.e {
+    font-size: 80px;
+    text-align: center;
+    height: 100px;
+    width: 230px;
+    color: white;
+    background-color: rgb(8, 184, 184);
+}
+
+.f {
+    font-size: 80px;
+    text-align: center;
+    height: 100px;
+    width: 230px;
+    color: white;
+    background-color: rgb(14, 228, 228);
+}
+
+.g {
+    font-size: 80px;
+    text-align: center;
+    height: 100px;
+    width: 230px;
+    color: white;
+    background-color: rgb(4, 221, 221);
+}
+
+.ab {
+    font-size: 50px;
+    text-align: center;
+    height: 70px;
+    width: 150px;
+    color: white;
+    background-color: rgb(2, 32, 32);
+}
+
+.bb {
+    font-size: 50px;
+    text-align: center;
+    height: 70px;
+    width: 150px;
+    color: white;
+    background-color: rgb(3, 49, 49);
+}
+
+.cb {
+    font-size: 50px;
+    text-align: center;
+    height: 70px;
+    width: 150px;
+    color: white;
+    background-color: rgb(5, 94, 94);
+}
+
+.db {
+    font-size: 50px;
+    text-align: center;
+    height: 70px;
+    width: 150px;
+    color: white;
+    background-color: rgb(7, 151, 151);
+}
+
+.eb {
+    font-size: 50px;
+    text-align: center;
+    height: 70px;
+    width: 150px;
+    color: white;
+    background-color: rgb(8, 184, 184);
+}
+
+.fb {
+    font-size: 50px;
+    text-align: center;
+    height: 70px;
+    width: 150px;
+    color: white;
+    background-color: rgb(14, 228, 228);
+}
+
+.gb {
+    font-size: 50px;
+    text-align: center;
+    height: 70px;
+    width: 150px;
+    color: white;
+    background-color: rgb(4, 221, 221);
+}
