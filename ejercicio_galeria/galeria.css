@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+.titulo{
+    text-align: center;
+    color: aliceblue;
+    padding-bottom: 20px;
+    border-bottom: 5px solid white;
+}
+
+.galeria{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.foto{
+    border: 2px solid white;
+    padding: 10px;
+    margin: 10px;
+}
+
