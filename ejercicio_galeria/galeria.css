@@ -4,9 +4,9 @@ body{
 
 .titulo{
     text-align: center;
-    color: aliceblue;
+    color: turquoise;
     padding-bottom: 20px;
-    border-bottom: 5px solid white;
+    border-bottom: 5px solid turquoise;
 }
 
 .galeria{
@@ -15,9 +15,29 @@ body{
     flex-wrap: wrap;
 }
 
+.galeria img{
+    border-radius: 10px;
+}
+
 .foto{
-    border: 2px solid white;
-    padding: 10px;
+    border: 3px solid turquoise;
+    padding: 30px;
     margin: 10px;
+    border-radius: 10px;
+    
+}
+
+.galeria .foto img:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 25px turquoise;
+}
+
+img{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+img:hover{
+    opacity: 1;
 }
 
