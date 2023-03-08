@@ -34,7 +34,7 @@ body{
 
 img{
     opacity: 0.6;
-    cursor: pointer;
+    cursor:wait;
 }
 
 img:hover{
