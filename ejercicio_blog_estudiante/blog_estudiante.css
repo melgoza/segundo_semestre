@@ -1,0 +1,16 @@
+.extremos{
+    display: flex;
+    justify-content: space-between;
+}
+
+.centro{
+    display: flex;
+    justify-content: center;
+}   
+
+.imagen{
+    display: flex;
+    border: 5px solid black;
+    margin: 10px;
+    border-radius: 5px;
+}
